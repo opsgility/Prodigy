@@ -1,8 +1,8 @@
 ---
 lab:
   title: 'Lab Setup'
-  description: 'Prepare your Microsoft 365 Copilot (GCC) workspace and DWR resource files for the Everyday Productivity workshop, and learn the GCSE prompting framework used throughout.'
-  duration: 10 minutes
+  description: 'Prepare your Microsoft 365 Copilot (GCC) workspace and DWR resource files for the Everyday Productivity workshop, warm up by letting Copilot interview you about your role, and learn the GCSE prompting framework used throughout.'
+  duration: 15 minutes
   level: 200
   islab: true
 ---
@@ -66,6 +66,55 @@ The optional Exercise 2b works a real email thread, so you need real messages in
 3. Confirm all four subject lines appear in your Outlook inbox.
 
 Everything in the pack is fictional; do not add real DWR data. If you would rather use your own real, non-sensitive threads in Exercise 2b, you can skip this step.
+
+### Step 6: Warm-Up — Let Copilot Interview You (about 8 min)
+
+With your files in OneDrive and your mailbox ready, finish setup by letting Copilot find where it fits *your* real work. This runs entirely from your spoken answers — no file needed — and hands you a personalized starting menu for the exercises ahead.
+
+1. Open **Microsoft 365 Copilot** (in Teams, Outlook, or the browser).
+2. Paste the prompt below, then answer its questions one at a time, in your own words. Be specific and give real, **non-sensitive** examples (a flood-ops briefing, a snowpack report, a meeting you had to document).
+
+   ```text
+   You are an interviewing assistant helping me, a California Department of Water Resources (DWR) team member, find where Microsoft 365 Copilot could save me time at work. Interview me one question at a time, in plain language, and don't assume I know Copilot's features.
+
+   Learn about my actual work:
+   - my role and who I work with (flood-ops team, water managers, engineers, contractors, state/federal agencies)
+   - the documents I deal with most — emails, snowpack reports, water supply data, meeting notes, spreadsheets, briefings, policy or compliance documents
+   - the recurring reports I produce and the deadlines or data calls I respond to
+   - the reading and summarizing I do — long email threads, meeting transcripts, hydrology guidance documents
+   - where my work slows down, gets repetitive, or is easy to get wrong
+
+   Ask a follow-up whenever my answer is vague, and help me think of a concrete, recent example.
+
+   When you have enough, summarize:
+   - my role and main responsibilities
+   - my recurring tasks and the documents I rely on
+   - the 5 tasks where Copilot would save me the most time
+   - a ready-to-use example prompt for each, and which app it belongs in (Outlook, Word, Teams, Excel, or PowerPoint)
+   - one thing I should always verify before trusting Copilot's output
+
+   Start by asking what my role is and what a normal week looks like. Then dig into specifics — a flood briefing I had to write, a thread I had to catch up on, a meeting I had to document.
+   ```
+
+3. **Read the summary.** Do the five use cases actually match what you do? Check it against reality.
+4. **Refine it** (optional) with follow-ups such as:
+
+   ```text
+   Focus more on my email and meeting tasks.
+   ```
+
+   ```text
+   Give me shorter, simpler example prompts I could use today.
+   ```
+
+   ```text
+   Which one of these would save me the most time each week?
+   ```
+
+**Deliverable:** a personalized summary of your role, your five best Copilot use cases, and a ready-to-use prompt for each — saved somewhere you can find it after the session. It is your starting menu for Exercises 1–4.
+
+> [!NOTE]
+> You don't need to know Copilot's features going in — the interview surfaces your best uses for you. The first output is a draft; refining it is the skill.
 
 ### Workshop Structure
 
