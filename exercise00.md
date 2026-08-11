@@ -1,6 +1,6 @@
 # Exercise 0 — Interview Me (Find Your Own Use Cases)
 
-* **App:** Copilot Chat (in Teams, Outlook, or the browser)
+* **App:** Microsoft 365 Copilot (in Teams, Outlook, or the browser)
 * **Workflow:** Let Copilot interview you about your role and hand back a personalized set of use cases — no file needed
 * **Material:** none — this runs from your spoken answers (the Session 2B opener)
 * **Estimated time:** 8 minutes
