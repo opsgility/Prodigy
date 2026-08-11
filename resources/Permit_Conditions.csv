@@ -1,0 +1,15 @@
+Condition ID,Permit,Agency,Category,Description,Due Date,Status,Owner
+PC-001,401 Water Quality Cert,State Water Board,Water Quality,Submit turbidity monitoring plan before in-water work,2026-03-15,Complete,J. Alvarez
+PC-002,401 Water Quality Cert,State Water Board,Water Quality,Weekly turbidity sampling during construction,2026-06-01,In Progress,J. Alvarez
+PC-003,Section 404,USACE,Wetlands,Delineate and flag wetland boundaries prior to grading,2026-02-28,Complete,R. Chen
+PC-004,Section 404,USACE,Wetlands,Provide 2:1 wetland mitigation acreage,2026-09-30,Not Started,R. Chen
+PC-005,ITP,CDFW,Species,Biological monitor on site during vegetation removal,2026-04-10,In Progress,M. Okafor
+PC-006,ITP,CDFW,Species,Avoid nesting bird season for tree removal,2026-05-01,At Risk,M. Okafor
+PC-007,CEQA MMRP,DWR,Air Quality,Dust control plan implemented and logged daily,2026-03-01,Complete,S. Patel
+PC-008,CEQA MMRP,DWR,Noise,Limit pile driving to 7am-5pm weekdays,2026-06-15,In Progress,S. Patel
+PC-009,Encroachment,Central Valley FPB,Flood,As-built survey submitted within 60 days of completion,2026-11-30,Not Started,J. Alvarez
+PC-010,Encroachment,Central Valley FPB,Flood,Maintain flood-fight access during construction,2026-06-01,In Progress,J. Alvarez
+PC-011,401 Water Quality Cert,State Water Board,Water Quality,Post-construction revegetation report,2026-12-15,Not Started,R. Chen
+PC-012,ITP,CDFW,Species,Annual compliance report to CDFW,2026-12-31,Not Started,M. Okafor
+PC-013,Section 404,USACE,Wetlands,Quarterly mitigation site monitoring,2026-07-01,At Risk,R. Chen
+PC-014,CEQA MMRP,DWR,Cultural,Archaeological monitor present during initial excavation,2026-04-05,Complete,S. Patel
